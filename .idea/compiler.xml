@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-eureka-client-dashboard" />
+        <module name="microservice-eureka-client-first-consumer" />
+        <module name="microservice-eureka-client-producer" />
+        <module name="microservice-eureka-client-zuul" />
+        <module name="microservice-eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-eureka-client-movie" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
