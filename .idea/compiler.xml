@@ -9,6 +9,8 @@
         <module name="microservice-eureka-client-dashboard" />
         <module name="microservice-eureka-client-first-consumer" />
         <module name="microservice-eureka-client-producer" />
+        <module name="microservice-eureka-client-second-consumer" />
+        <module name="microservice-eureka-client-sleuth-zipkin" />
         <module name="microservice-eureka-client-zuul" />
         <module name="microservice-eureka-server" />
       </profile>

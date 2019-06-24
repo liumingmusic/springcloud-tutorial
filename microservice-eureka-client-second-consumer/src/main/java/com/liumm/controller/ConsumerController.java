@@ -24,7 +24,7 @@ public class ConsumerController {
 
     @GetMapping("/getMessage/{msg}")
     public String getMessage(@PathVariable(name = "msg") String msg) {
-        return iProducerFeign.getOne(msg);
+        return iProducerFeign.getTwo(msg);
     }
 
 

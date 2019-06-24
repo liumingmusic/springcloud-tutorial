@@ -25,15 +25,15 @@ public interface IProducerFeign {
      * @param name 参数
      * @return 消息加前缀
      */
-    @GetMapping("/producerController/getOne/{name}")
-    String getOne(@PathVariable(name = "name") String name);
+    @GetMapping("/producerController/getTwo/{name}")
+    String getTwo(@PathVariable(name = "name") String name);
 
 }
 
 @Component
 class IProducerFeignFallback implements IProducerFeign {
     @Override
-    public String getOne(String name) {
-        return "default + " + name;
+    public String getTwo(String name) {
+        return "default_getTwo + " + name;
     }
 }

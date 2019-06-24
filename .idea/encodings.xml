@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/microservice-eureka-client-dashboard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-eureka-client-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-client-second-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-eureka-client-zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-eureka-server" charset="UTF-8" />
   </component>

@@ -1,6 +1,9 @@
 package com.liumm.controller;
 
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 /**
  * 描述: 服务接口提供者
@@ -18,9 +21,18 @@ public class ProducerController {
      * @param name 参数
      * @return 返回加入前缀
      */
-    @GetMapping("/getMsg/{name}")
-    public String getMsg(@PathVariable(name = "name") String name) {
-        return "hello " + name;
+    @GetMapping("/getOne/{name}")
+    public String getOne(@PathVariable(name = "name") String name) {
+        return "getOne " + name;
+    }
+
+    /**
+     * @param name 参数
+     * @return 返回加入前缀
+     */
+    @GetMapping("/getTwo/{name}")
+    public String getTwo(@PathVariable(name = "name") String name) {
+        return "getTwo " + name;
     }
 
 }

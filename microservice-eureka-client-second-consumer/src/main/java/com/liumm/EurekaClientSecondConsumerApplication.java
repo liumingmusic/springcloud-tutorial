@@ -18,10 +18,10 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableDiscoveryClient
 @EnableFeignClients
 @EnableCircuitBreaker
-public class EurekaClientFirstConsumerApplication {
+public class EurekaClientSecondConsumerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EurekaClientFirstConsumerApplication.class, args);
+        SpringApplication.run(EurekaClientSecondConsumerApplication.class, args);
     }
 
 }
