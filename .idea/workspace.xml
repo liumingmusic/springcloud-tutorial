@@ -2,31 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a038b62-b1de-4a55-826b-495462794ddf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/microservice-eureka-client-second-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/java/com/liumm/EurekaClientSecondConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/java/com/liumm/controller/ConsumerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/java/com/liumm/feign/IProducerFeign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/java/config/FeignLogConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/src/main/java/com/liumm/EurekaClientSleuthZipKinApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-dashboard/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-dashboard/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/EurekaClientFirstConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/EurekaClientFirstConsumerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/controller/ConsumerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/controller/ConsumerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/feign/IProducerFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/feign/IProducerFeign.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-eureka-client-producer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-producer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/java/com/liumm/EurekaClientProducerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/java/com/liumm/EurekaClientProducerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/java/com/liumm/controller/ProducerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/java/com/liumm/controller/ProducerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-zuul/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-zuul/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-second-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-second-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,95 +47,11 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="18" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="52" column="21" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="52" selection-end-column="21" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/microservice-eureka-client-second-consumer/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/microservice-eureka-server/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file leaf-file-name="EurekaClientProducerApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-eureka-client-producer/src/main/java/com/liumm/EurekaClientProducerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-eureka-client-producer/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file leaf-file-name="ProducerController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/microservice-eureka-client-producer/src/main/java/com/liumm/controller/ProducerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -192,31 +92,31 @@
         <option value="$PROJECT_DIR$/microservice-eureka-client-dashboard/src/main/java/com/liumm/Application.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka-server/src/main/java/com/liumm/EurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-zuul/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-eureka-client-producer/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/java/com/liumm/EurekaClientProducerApplication.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/EurekaClientFirstConsumerApplication.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/java/com/liumm/controller/ProducerController.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/java/liumm/EurekaClientFirstConsumerApplication.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/java/com/liumm/EurekaClientFirstConsumerApplication.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-server/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-dashboard/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/java/com/liumm/controller/ConsumerController.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/java/com/liumm/feign/IProducerFeign.java" />
-        <option value="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/feign/IProducerFeign.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/controller/ConsumerController.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-zuul/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-zuul/src/main/java/com/liumm/EurekaClientZuulApplication.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/src/main/java/com/liumm/EurekaClientSleuthZipKin.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/feign/IProducerFeign.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-first-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-eureka-client-second-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-eureka-client-producer/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/microservice-eureka-client-second-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -242,6 +142,21 @@
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-eureka-client-consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-eureka-client-consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-eureka-client-consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.cloud:spring-cloud-sleuth-zipkin:2.0.1.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="microservice-eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -277,122 +192,6 @@
               <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-first-consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-first-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-first-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-first-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-first-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="liumm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-first-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="liumm" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-first-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="liumm" type="462c0819:PsiDirectoryNode" />
-              <item name="feign" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-first-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-second-consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-second-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-second-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-second-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-second-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="liumm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-second-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="liumm" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice-eureka-client-second-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -413,9 +212,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.29506642" />
+    <property name="project.structure.side.proportion" value="0.37986705" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -455,7 +254,7 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.29163215" />
+    <option name="contentProportion" value="0.36288318" />
   </component>
   <component name="RunManager" selected="Spring Boot.EurekaClientFirstConsumerApplication">
     <configuration default="true" type="Application" factoryName="Application">
@@ -503,16 +302,6 @@
       <module name="microservice-eureka-client-second-consumer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.liumm.EurekaClientSecondConsumerApplication" />
     </configuration>
-    <configuration name="EurekaClientSleuthZipKinApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="microservice-eureka-client-sleuth-zipkin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liumm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liumm.EurekaClientSleuthZipKinApplication" />
-    </configuration>
     <configuration name="EurekaClientZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="microservice-eureka-client-zuul" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.liumm.EurekaClientZuulApplication" />
@@ -550,13 +339,7 @@
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.EurekaClientDashboardApplication" />
       <item itemvalue="Spring Boot.EurekaClientSecondConsumerApplication" />
-      <item itemvalue="Spring Boot.EurekaClientSleuthZipKinApplication" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.EurekaClientSleuthZipKinApplication" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -572,21 +355,22 @@
       <workItem from="1561164186093" duration="12122000" />
       <workItem from="1561251481966" duration="4192000" />
       <workItem from="1561297438988" duration="6246000" />
-      <workItem from="1561382052797" duration="5653000" />
+      <workItem from="1561382052797" duration="5940000" />
+      <workItem from="1561438125542" duration="2436000" />
+      <workItem from="1561474094645" duration="295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34019000" />
+    <option name="totallyTimeSpent" value="37037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="RestServices" order="10" weight="0.32956383" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956383" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.5444265" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
@@ -596,17 +380,16 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32965517" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32965517" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.44827586" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.3751724" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32965517" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.52965516" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32965517" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24551724" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3441034" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30620688" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35541195" />
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -614,45 +397,46 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32965517" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="right" id="RestServices" order="10" weight="0.32956383" />
       <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.44827586" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.52965516" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32965517" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52965516" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.13103448" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3089655" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32965517" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.365105" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32965517" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956383" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.5444265" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34975767" />
       <window_info anchor="right" id="Database" order="6" weight="0.32956383" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="RestServices" order="10" weight="0.32956383" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.18206896" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,6 +451,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-producer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-eureka-client-producer/src/main/java/com/liumm/controller/ProducerController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -688,26 +493,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/java/com/liumm/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/java/com/liumm/Application.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/microservice-eureka-client/src/main/java/com/liumm/Application.java" />
     <entry file="file://$PROJECT_DIR$/microservice-eureka-client/src/main/resources/application.properties" />
     <entry file="file://$PROJECT_DIR$/microservice-eureka-client-movie/src/main/resources/application.properties" />
@@ -725,83 +515,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/java/config/FeignLogConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/java/com/liumm/feign/IProducerFeign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/java/com/liumm/controller/ConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/java/com/liumm/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/java/config/FeignLogConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/java/com/liumm/feign/IProducerFeign.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/java/com/liumm/controller/ConsumerController.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-consumer/src/main/java/com/liumm/Application.java" />
     <entry file="file://$PROJECT_DIR$/microservice-eureka-server/src/main/java/com/liumm/EurekaServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266" />
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../E_lib/local_repository/org/springframework/cloud/spring-cloud-commons/2.0.1.RELEASE/spring-cloud-commons-2.0.1.RELEASE.jar!/org/springframework/cloud/client/circuitbreaker/EnableCircuitBreaker.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-producer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-dashboard/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139" />
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/EurekaClientFirstConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -811,12 +533,6 @@
           <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/java/config/FeignLogConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/java/com/liumm/EurekaClientSecondConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-eureka-server/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -846,41 +562,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/feign/IProducerFeign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-eureka-client-dashboard/src/main/java/com/liumm/EurekaClientDashboardApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/controller/ConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-zuul/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="71" column="19" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="71" selection-end-column="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-eureka-client-zuul/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -893,26 +580,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/src/main/java/com/liumm/EurekaClientSleuthZipKinApplication.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/feign/IProducerFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/src/main/java/com/liumm/EurekaClientSleuthZipKinApplication.java">
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/controller/ConsumerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="143">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="36" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-eureka-client-producer/src/main/java/com/liumm/controller/ProducerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
+        <state relative-caret-position="391">
           <caret line="23" column="24" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -920,18 +617,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/pom.xml">
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/EurekaClientFirstConsumerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-producer/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -945,42 +634,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-sleuth-zipkin/src/main/resources/application.properties">
+    <entry file="jar://$PROJECT_DIR$/../../../E_lib/local_repository/org/springframework/cloud/spring-cloud-sleuth-zipkin/2.0.1.RELEASE/spring-cloud-sleuth-zipkin-2.0.1.RELEASE.jar!/org/springframework/cloud/sleuth/zipkin2/ZipkinProperties.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="52" />
+        <state relative-caret-position="680">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-producer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="18" selection-end-column="52" />
+        <state relative-caret-position="305">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/microservice-eureka-client-second-consumer/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        <state relative-caret-position="391">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-first-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="52" column="21" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="52" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/microservice-eureka-server/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/microservice-eureka-client-second-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -1039,7 +723,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.29506642" />
+                <option value="0.37986705" />
               </list>
             </option>
           </splitter-proportions>

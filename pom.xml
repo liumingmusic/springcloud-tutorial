@@ -15,7 +15,6 @@
         <module>microservice-eureka-client-zuul</module>
         <module>microservice-eureka-client-dashboard</module>
         <module>microservice-eureka-client-second-consumer</module>
-        <module>microservice-eureka-client-sleuth-zipkin</module>
     </modules>
 
 
