@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a038b62-b1de-4a55-826b-495462794ddf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-dashboard/src/main/java/com/liumm/EurekaClientDashboardApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-dashboard/src/main/java/com/liumm/EurekaClientDashboardApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/feign/IProducerFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/feign/IProducerFeign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-tutorial.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,7 +38,13 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,6 +108,7 @@
         <option value="$PROJECT_DIR$/microservice-eureka-client-producer/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-first-consumer/src/main/java/com/liumm/feign/IProducerFeign.java" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-dashboard/src/main/java/com/liumm/EurekaClientDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -184,6 +186,17 @@
               <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-tutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-tutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -244,7 +257,7 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.36288318" />
+    <option name="contentProportion" value="0.2004971" />
   </component>
   <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
     <configuration default="true" type="Application" factoryName="Application">
@@ -348,15 +361,16 @@
       <workItem from="1561382052797" duration="5940000" />
       <workItem from="1561438125542" duration="2436000" />
       <workItem from="1561474094645" duration="526000" />
-      <workItem from="1564929389095" duration="1466000" />
+      <workItem from="1564929389095" duration="1768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38734000" />
+    <option name="totallyTimeSpent" value="39036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="RestServices" order="10" weight="0.32956383" />
@@ -378,10 +392,10 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.4634483" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.52965516" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32965517" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32965517" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.42482758" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36187398" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.42482758" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36187398" />
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -432,6 +446,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -591,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-eureka-client-dashboard/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -656,6 +693,9 @@
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
