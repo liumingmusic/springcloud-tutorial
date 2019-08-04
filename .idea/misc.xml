@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/microservice-eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-movie/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-eureka-client-first-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-eureka-client-consumer/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

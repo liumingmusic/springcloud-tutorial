@@ -20,8 +20,8 @@ import org.springframework.cloud.netflix.turbine.EnableTurbine;
 @EnableHystrixDashboard
 public class EurekaClientDashboardApplication {
 
-    //http://localhost:9101/hystrix
-    //http://localhost:8031/turbine.stream
+    //http://localhost:9000/hystrix
+    //http://localhost:9000/turbine.stream
     public static void main(String[] args) {
         SpringApplication.run(EurekaClientDashboardApplication.class, args);
     }

@@ -16,7 +16,10 @@ import org.springframework.web.bind.annotation.PathVariable;
  */
 
 @Component
-@FeignClient(value = "microservice-eureka-client-producer", configuration = FeignLogConfiguration.class, fallback = IProducerFeignFallback.class)
+@FeignClient(
+        value = "microservice-eureka-client-producer",
+        configuration = FeignLogConfiguration.class,
+        fallback = IProducerFeignFallback.class)
 public interface IProducerFeign {
 
     /**
